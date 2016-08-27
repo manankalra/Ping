@@ -13,4 +13,4 @@ Pre-requisites
 
 - JRE/JDK
 
-<p><code>JAR files included in this repo only allows you to chat locally (127.0.0.1). Contact me if you want the code in order to use it for connecting different nodes.></code></p>
+<p><code>JAR files included in this repo only allows you to chat locally (127.0.0.1). Contact me if you want the code in order to use it for connecting different nodes.</code></p>
